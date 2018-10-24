@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'JustRideSDK'
-  s.version = '0.4.7'
+  s.version = '0.4.7.1'
   s.summary = 'The Justride mobile ticketing SDK from Masabi'
   s.homepage = 'http://www.masabi.com/justride-mobile-ticketing/'
   s.license = { :type => 'Commercial', :text => "<<- LICENSE Copyright Masabi Ltd 2018. All rights reserved. LICENSE" }
