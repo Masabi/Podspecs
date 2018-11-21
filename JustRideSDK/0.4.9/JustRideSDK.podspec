@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage = 'http://www.masabi.com/justride-mobile-ticketing/'
   s.license = { :type => 'Commercial', :text => "<<- LICENSE Copyright Masabi Ltd 2018. All rights reserved. LICENSE" }
   s.author = 'Masabi Ltd'
-  s.source = { :http => "https://sdk-artifactory.justride.com/artifactory/ios-artifacts/#{s.version}/JustRideSDK.framework.zip", :sha1 => 'a14ca70a50074bd6ab919049df5cec7298c04989' }
+  s.source = { :http => "https://sdk-artifactory.justride.com/artifactory/ios-artifacts/#{s.version}/JustRideSDK.framework.zip", :sha1 => '002ba6cb55ecc788a97d96b594f11c8bb06ab269' }
   s.documentation_url = 'https://masabi.atlassian.net/wiki/spaces/SDK/overview'
   s.platform = :ios, '9.0'
   s.vendored_frameworks = 'JustRideSDK.framework'
